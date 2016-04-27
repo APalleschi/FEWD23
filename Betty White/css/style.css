@@ -1,0 +1,90 @@
+h1{
+    text-align: center; 
+    font: bold; 
+    font-family: serif;
+    font-style: oblique;,
+    font-size: 20px;
+    color: white;
+
+}
+body {
+    background-color: #444444;
+    text-align: left;
+    font: "Georgia"
+    padding: 50px;
+    margin: 50px 50px 50px 50px;
+}
+img {
+    padding-left: 30px;
+}
+#experience {
+    list-style-type: circle;
+    float: left;
+    color: white;  
+}
+
+#education {
+    list-style-type: circle;
+    float: left;
+    color: white;  
+}
+#top, #bottom, #left, #right {
+    background: #777777;
+    position: fixed;
+    margin: 10px 10px 10px 10px;
+    }
+    #left, #right {
+        top: 0; bottom: 0;
+        width: 5px;
+        }
+        #left { left: 0; }
+        #right { right: 0; }
+        
+    #top, #bottom {
+        left: 0; right: 0;
+        height: 5px;
+        }
+        #top { top: 0; }
+        #bottom { bottom: 0; }
+
+ul {
+    list-style-type: none;
+    font-family: "helvetica", Arial, serif;
+    font: bold;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+li {
+    display: inline;
+    text-align: center;
+}
+a {
+    color: #71CE9D;
+}
+a:active {
+    text-decoration: underline;
+}
+
+p {
+	font-family: "Georgia", Times, serif;
+    font: bold 
+    font-size: 14px;
+    color: white;
+    text-align: left;
+}
+h2 {
+    text-align: left;
+    font-family: "helvetica", Arial, serif;
+    font: bold 
+    font-size: 29px;
+    color: white;
+}
+h3 {
+    text-align: left;
+    font-family: "helvetica", Arial, serif;
+    font: bold;
+    font-size: 14px;
+    color: #777777;
+    }
+

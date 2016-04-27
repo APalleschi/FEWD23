@@ -1,0 +1,75 @@
+body h1 h2 p {
+	font-family: 'Lato', sans-serif;
+	max-width: 40m
+}
+div{
+	padding: 10px;
+}
+h1 a {
+	color: #f30000;
+	text-decoration: none;
+	font-size: 60px;
+	font-weight: 100;
+}
+#blog-title {
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	color: black;
+	font-size: 30px;
+	font-weight: 100;
+
+}
+p::first-letter { 
+    font-size: 900%;
+    color: #dddddd;
+    font-weight: 10;
+
+}
+p{
+	text-decoration: none;
+	font-size: 16px;
+	width: 850px;
+	margin: 10px;
+	padding: 15px 15px;
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+	color: #515151;
+}
+
+h2 {
+	color: black;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+}
+h3 {
+	color: #dfdfdf;;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	}
+#continues {
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	color: red;
+	float: right;
+}
+nav a {
+	text-decoration: none;
+	font-size: 12px;
+	padding: 5px 5px;
+	text-decoration: none;
+	color: #dfdfdf;
+    border-bottom: thin solid #dfdfdf;
+
+}
+}
+#nav-foot {
+	text-decoration: none;
+	font-size: 12px;
+	padding: 5px 5px;
+	text-decoration: none;
+	color: red;
+
+}
